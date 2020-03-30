@@ -1,0 +1,1 @@
+# earthly-example-multirepo-static
